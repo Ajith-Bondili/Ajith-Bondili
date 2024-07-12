@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-When the COVID-19 lockdown hit, I slowly started to learn to code and never looked back. Whether it be from my own mistakes or through my success, I love to learn! Studying Computer Science at the University Of Waterloo (Class of 2029) "Knowledge Is Power" - Sir Francis Bacon
+When the COVID-19 lockdown hit, I slowly started to learn to code and never looked back. Whether it be from my own mistakes or through my success, I love to learn! 
+
+"Knowledge Is Power" - Sir Francis Bacon
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [ajithbon05@gmail.com](mailto:ajithbon05@gmail.com)
