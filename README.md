@@ -6,10 +6,13 @@ Full Stack Developer
 
 When the COVID-19 lockdown hit, I slowly started to learn to code and never looked back. Whether it be from my own mistakes or through my success, I love to learn! 
 
+Studying Computer Science at the University Of Waterloo (Class of 2029)
+
 "Knowledge Is Power" - Sir Francis Bacon
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [ajithbon05@gmail.com](mailto:ajithbon05@gmail.com)
+* 🧠  I'm learning the MERN stack
 
 ### Skills
 
