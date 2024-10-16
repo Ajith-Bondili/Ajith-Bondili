@@ -12,7 +12,7 @@ Studying Computer Science at the University Of Waterloo (Class of 2029)
 
 * 🌍  I'm based in Canada
 * ✉️  You can contact me at [ajithbon05@gmail.com](mailto:ajithbon05@gmail.com)
-* 🧠  I'm learning the MERN stack
+* 🧠  I'm learning React and getting into Javascript
 
 ### Skills
 
