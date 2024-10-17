@@ -11,9 +11,8 @@ Studying Computer Science at the University Of Waterloo (Class of 2029)
 "Knowledge Is Power" - Sir Francis Bacon
 
 * 🌍  I'm based in Canada
-* ✉️  You can contact me at [ajithbon05@gmail.com](mailto:ajithbon05@gmail.com)
-* 🧠  I'm learning React and getting into Javascript
-
+* ❤️ Currently in love with React
+* 🧠  I'm learning CRUD  
 ### Skills
 
 
