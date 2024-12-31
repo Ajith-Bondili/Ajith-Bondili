@@ -6,7 +6,7 @@ Full Stack Developer
 
 When the COVID-19 lockdown hit, I slowly started to learn to code and never looked back. Whether it be from my own mistakes or through my success, I love to learn! 
 
-Studying Computer Science at the University Of Waterloo (Class of 2029)
+Studying Computer Science at the University Of Waterloo 
 
 "Knowledge Is Power" - Sir Francis Bacon
 
