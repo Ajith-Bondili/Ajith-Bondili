@@ -7,7 +7,7 @@ Software Engineer
 🌱 I’m currently exploring the latest advancements in open source LLM’s and distributed systems.
 
 * 🌍  I'm based in Ontario, Canada
-* ✉️  You can contact me at [ajithbon05@gmail.com](mailto:ajithbon05@gmail.com)
+* ✉️  You can contact me at [abondili@uwaterloo.ca](mailto:abondili@uwaterloo.ca)
 * 🧠  I'm learning LangGraph
 * 🤝  I'm open to collaborating on on LLM research or open-source NLP tools.
 * ⚡  Ask me about building scalable RAG systems or integrating AI Agents into workflows.
