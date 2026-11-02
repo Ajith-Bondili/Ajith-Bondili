@@ -7,14 +7,15 @@ cs @ **university of waterloo** · ml / agents / systems
 i care about things that provide value in the real world, tight feedback loops, making projects that are addicting, productivity.
 
 **recent**  
+mts @ **abundant**
 mle @ **shopify** 
 llm safety research @ **uwaterloo**
 
 
 **highlights**  
-hackathons winner · strong traction + stars on shipped work · llm safety research — multi-agent evals, efficient adaptation, interpretable aggregation · ship fast, measure honestly — side projects to real usage
+hackathons winner · strong traction + stars on shipped work · llm safety research, multi-agent evals, efficient adaptation, interpretable aggregation · ship fast, measure honestly, side projects to real usage
 
-**interests:** agents, evals, safety under shift, infra at scale, anything with depth 
+**interests:** rl, llm infra, evals/benchmarks, allignment, infra at scale
 
 **links:** [portfolio](https://ajithbondili.com) · [linkedin](https://www.linkedin.com/in/ajith-bondili/) · [x](https://x.com/AjithBondili) · [repos](https://github.com/Ajith-Bondili?tab=repositories)
 
